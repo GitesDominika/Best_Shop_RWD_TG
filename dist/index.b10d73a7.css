@@ -258,6 +258,120 @@ html, body {
   text-decoration: none;
 }
 
+.benefits {
+  flex-direction: nowrap;
+  background-color: #f2f2f2;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.benefits--iner {
+  max-width: 19.625rem;
+}
+
+.box {
+  background-color: #fff;
+  border: .0625rem solid #e8e9ed;
+  border-radius: .3125rem;
+  margin-top: 2.5625rem;
+  margin-bottom: 0;
+}
+
+.box:first-child, .box:nth-child(2) {
+  flex-direction: column-reverse;
+  display: flex;
+}
+
+.box:last-child {
+  margin-bottom: 2.79125rem;
+}
+
+.box .title__hdl {
+  color: #000;
+  margin-top: 1.625rem;
+  margin-bottom: 0;
+  margin-inline: 1.3125rem;
+  font-family: Raleway, sans-serif;
+  font-size: 1.875rem;
+  font-weight: 400;
+}
+
+.box .title__dsc {
+  color: #000;
+  margin-top: .625rem;
+  margin-bottom: 1.875rem;
+  margin-inline: 1.3125rem;
+  font-family: Open Sans, sans-serif;
+  font-size: .875rem;
+  font-weight: 400;
+}
+
+.box .graph {
+  display: flex;
+  position: relative;
+}
+
+.box .graph__img {
+  padding-top: 2.34375rem;
+}
+
+.box .graph__img--last {
+  position: absolute;
+  top: 0;
+  left: -.75rem;
+}
+
+.box .graph__shape--red {
+  background-color: #eb476e;
+  border-radius: 35%;
+  width: 7.9375rem;
+  height: 7.9375rem;
+  position: absolute;
+  top: 1.15625rem;
+  left: 10.4688rem;
+  transform: matrix(.71, .71, -.71, .71, 0, 0);
+}
+
+.box .graph--desc {
+  background-color: #55dfb4;
+  border: .0625rem solid #e8e9ed;
+  border-radius: .3125rem;
+  width: 100%;
+  height: 12.1875rem;
+  position: relative;
+}
+
+.box .graph--desc__img {
+  z-index: 10;
+  padding-top: 2.31938rem;
+}
+
+.box .graph--desc__img--first {
+  margin-inline: 3.45438rem;
+}
+
+.box .graph--desc__img--two {
+  margin-top: 5.625rem;
+  margin-left: 5.625rem;
+}
+
+.box .graph--desc__img--treeth {
+  position: absolute;
+  left: -.75rem;
+}
+
+.box .graph--desc__shape--red, .box .graph--desc__shape--blue {
+  background-color: #eb476e;
+  border-radius: 35%;
+  width: 5.6325rem;
+  height: 5.6325rem;
+  position: absolute;
+  top: 1.15625rem;
+  left: 10.4688rem;
+  transform: matrix(.71, .71, -.71, .71, 0, 0);
+}
+
 .logo {
   color: #07ace6;
   padding-top: 1.0625rem;
