@@ -1,9 +1,0 @@
-@import "../variables";
-@import "../helpers/functions";
-
-.benefits {background-color: $gray-color;
-  @include flex(center, center);
-&--iner {
-  max-width: px-to-rem(314px);
-}
-}

@@ -7,11 +7,14 @@
 
 // layout
 @import "./layout/header";
-@import "layout/benefits_cection";
-@import "layout/benefit_box";
-
+@import "./layout/statistic-section";
+@import "./layout/benefit-section";
+@import "./layout/priceing_section";
 
 // components
 @import "./components/logo";
 @import "./components/navigation";
 @import "./components/hamburger";
+@import "./components/statistic_bar";
+@import "./components/benefit_box";
+@import "./components/priceing_box";

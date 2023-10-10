@@ -45,78 +45,53 @@
     display: flex;
     position: relative;
     &__img {
-      padding-top:px-to-rem(37.5px);
+      padding-top: px-to-rem(37.11px);
+      z-index: 42;
 
-      &--last {
+      &--first {
+        margin-inline: px-to-rem(55.27px);
+      }
+
+      &--second {
+        margin-inline: px-to-rem(90px);
+        height: px-to-rem(134px);
+        padding-top: px-to-rem(19px);
+      }
+
+      &--third {
         position: absolute;
-        top: 0;
         left: px-to-rem(-12px);
       }
     }
     &__shape {
       &--red {
-        width: px-to-rem(127px);
-        height: px-to-rem(127px);
+        width: px-to-rem(90.12px);
+        height: px-to-rem(90.12px);
         background-color: $red-color;
-        border-radius:35%;
-        transform: matrix(0.71,0.71,-0.71,0.71, 0, 0);
+        transform: rotate(45deg);
+        border-radius: 45%;
         position: absolute;
         top: px-to-rem(18.5px);
-        left: px-to-rem(167.5px);
+        left: px-to-rem(161.5px);
       }
-      &--blue {}
+      &--blue {
+        width: px-to-rem(131.88px);
+        height: px-to-rem(131.7px);
+        background-color: $base-color;
+        border-radius: 50%;
+        position: absolute;
+        left: px-to-rem(90px);
+        top: px-to-rem(12px);
+      }
       &--green {
       }
     }
     &--desc {
-      background-color: $green-color;
+      background-color: $green;
       height: px-to-rem(195px);
-      position: relative;
       width: 100%;
       border-radius: px-to-rem(5px);
       border: px-to-rem(1px) solid #E8E9ED;
-
-      &__img {
-        padding-top: px-to-rem(37.11px);
-        z-index: 10;
-
-        &--first{
-          margin-inline: px-to-rem(55.27px);
-
-        }
-
-        &--two{
-          margin-left: px-to-rem(90px);
-          margin-top: px-to-rem(90px);
-
-        }
-        &--treeth{
-          position: absolute;
-          left: px-to-rem(-12px);
-
-        }
-      }
-
-      &__shape {
-        &--red { width: px-to-rem(90.12px);
-        height: px-to-rem(90.12px);
-          background-color: $red-color;
-          border-radius: 35%;
-          transform: matrix(0.71,0.71,-0.71,0.71, 0, 0);
-          position: absolute;
-          top: px-to-rem(18.5px);
-          left: px-to-rem(167.5px);
-        }
-        &--blue{  width: px-to-rem(90.12px);
-          height: px-to-rem(90.12px);
-          background-color: $red-color;
-          border-radius: 35%;
-          transform: matrix(0.71,0.71,-0.71,0.71, 0, 0);
-          position: absolute;
-          top: px-to-rem(18.5px);
-          left: px-to-rem(167.5px);
-        }
-      } &--green {}
     }
   }
 }
