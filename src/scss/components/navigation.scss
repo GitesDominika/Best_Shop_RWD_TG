@@ -1,0 +1,126 @@
+@import "../helpers/functions";
+@import "../helpers/mixins";
+@import "../variables";
+
+.navigation {
+
+  @include flex(flex-end);
+  @media screen and (max-width: px-to-rem(860px)) {
+    display: none;
+  }
+  &__item {
+    font-family: "Open Sans", sans-serif;
+    padding: px-to-rem(28px) px-to-rem(47.5px);
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #A5A5A5;
+    font-size: px-to-rem(11px);
+    transition: all 200ms ease-in-out;
+    font-weight: 700;
+    position: relative;
+  }
+  &__item:hover {
+    border-bottom: px-to-rem(4px) solid $base-color;
+    color: black;
+  }
+  &__item--active {
+    border-bottom: px-to-rem(4px) solid $base-color;
+    color: black;
+  }
+
+}
+
+.items {
+
+  .item {
+    @include flex(center, center, wrap);
+    width: 100%;
+    flex-direction: column;
+    margin-top: px-to-rem(25px);
+    margin-bottom: 0;
+    max-width: px-to-rem(116px);
+    text-align: center;
+
+    &:last-child {
+      margin-bottom: px-to-rem(50px);
+    }
+
+    .graph {
+      display: flex;
+      position: relative;
+      justify-content: center;
+      align-items: center;
+
+
+      &__circle {
+        width: px-to-rem(62.71px);
+        height: px-to-rem(62.71px);
+        border-radius: 50%;
+
+        &--1 {background-color: $red-color;}
+
+        &--2 {background-color: $base-color;}
+
+        &--3 {background-color: $green-color;}
+      }
+
+      &__img {
+        position: absolute;
+        left: px-to-rem(31.355px);
+        margin-top: px-to-rem(3px);
+        margin-bottom: 0;
+      }
+    }
+    &__hdl {
+      display: flex;
+      margin-top: px-to-rem(14.18px);
+      margin-bottom: 0;
+      font-family: "Raleway Regular", sans-serif;
+      letter-spacing: px-to-rem(5.96px);
+      color: $font-color;
+      font-size: px-to-rem(20px)
+
+    }
+    &__dsc {
+      display: flex;
+      position: relative;
+      margin-top: px-to-rem(19.11px);
+      margin-bottom: 0;
+      color: rgba(165, 165, 165, 1);
+      font-size: px-to-rem(17px);
+      font-weight: 400;
+      font-family: "Raleway", sans-serif;
+    }
+  }
+}
+
+.graph--1 {
+  background-color: #EB476E;}
+
+.graph--2 {
+  background-color: #07ACE6;}
+
+.graph--3 {
+  background-color: #55DFB4;}
+
+
+
+.statistics{
+  @include flex(center, center, wrap);
+  width: 100%;
+  flex-direction: column;
+
+  &__hdl {
+    color: $font-color;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    margin-top: px-to-rem(50px);
+    margin-bottom: 0;
+    text-align: center;
+    font-size: px-to-rem(30px);
+    //margin: auto;
+    //padding-inline: 60px;
+  }
+}
+
