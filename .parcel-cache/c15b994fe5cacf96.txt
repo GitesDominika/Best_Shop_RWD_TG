@@ -1,4 +1,4 @@
-6055
+6058
 93C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\utility-types\dist\mapped-types.d.ts133413485927679278 0
 56C:\Users\Dominika\projects\Best_Shop_RWD_TG\package.json133413486127548841 0
 68C:\Users\Dominika\projects\Best_Shop_RWD_TG\src\images\Mail Icon.svg133410490900000000 0
@@ -16,8 +16,8 @@
 65C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\anymatch133413485922503115 1
 90C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\domelementtype\lib\esm\index.d.ts133413485925315653 0
 77C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@swc\types\README.md133413485923929448 0
-49C:\Users\Dominika\projects\Best_Shop_RWD_TG\.idea133414050756032148 1
-79C:\Users\Dominika\projects\Best_Shop_RWD_TG\src\scss\components\navigation.scss133414050755423770 0
+49C:\Users\Dominika\projects\Best_Shop_RWD_TG\.idea133414074853757102 1
+79C:\Users\Dominika\projects\Best_Shop_RWD_TG\src\scss\components\navigation.scss133414055859913366 0
 87C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\csso\lib\clean\TypeSelector.js133413485935189248 0
 88C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\regions\HK.js133413485942629313 0
 75C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\msgpackr\pack.d.ts133413485932675911 0
@@ -27,7 +27,7 @@
 65C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\mdn-data133413485929803590 1
 93C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h133413485936016979 0
 96C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\features\autofocus.js133413485931449195 0
-48C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist133414050758685030 1
+48C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist133414075154239175 1
 69C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\lmdb\keys.js133413485936575481 0
 105C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\features\css-widows-orphans.js133413485940026270 0
 94C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\source-map\lib\source-map-consumer.js133413485925854149 0
@@ -46,7 +46,7 @@
 101C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\lmdb\node_modules\node-addon-api\common.gypi133413485921037047 0
 110C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\transformer-js\parcel-swc.win32-x64-msvc.node133413485948314170 0
 88C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\regions\KE.js133413485943736328 0
-54C:\Users\Dominika\projects\Best_Shop_RWD_TG\index.html133414021502210489 0
+54C:\Users\Dominika\projects\Best_Shop_RWD_TG\index.html133414074852844440 0
 140C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\DeclarationList.js133413485931199854 0
 104C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\csso\node_modules\css-tree\lib\lexer\generic.js133413485938400618 0
 64C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\is-json133413485923620126 1
@@ -105,7 +105,7 @@
 81C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\normalize-path\README.md133413485921884773 0
 92C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-svgo\package.json133413485922333567 0
 97C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\reporter-cli\src\bundleReport.js133413485920717911 0
-63C:\Users\Dominika\projects\Best_Shop_RWD_TG\src\scss\components133414050755423770 1
+63C:\Users\Dominika\projects\Best_Shop_RWD_TG\src\scss\components133414055859913366 1
 97C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\abortcontroller-polyfill\src\polyfill.js133413485925415327 0
 87C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\update-browserslist-db\LICENSE133413485919221893 0
 119C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeDesc.js133413485931538954 0
@@ -614,7 +614,7 @@
 76C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\picomatch\README.md133413485925654691 0
 81C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\source-map\lib\base64.js133413485924238472 0
 78C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\msgpackr\dist\test.js133413485928696549 0
-59C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\index.html133414044332974729 0
+59C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\index.html133414075154229184 0
 79C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\is-arrayish\.npmignore133413485919979862 0
 128C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-select\node_modules\entities\lib\esm\generated\encode-html.d.ts.map133413485930581523 0
 91C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\features\heif.js133413485942529578 0
@@ -3412,7 +3412,7 @@
 91C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-tree\lib\syntax\scope\value.js133413485940325463 0
 96C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-tree\cjs\syntax\node\Identifier.cjs133413485932636108 0
 88C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\regions\LR.js133413485944753634 0
-63C:\Users\Dominika\projects\Best_Shop_RWD_TG\.idea\workspace.xml133414050756012196 0
+63C:\Users\Dominika\projects\Best_Shop_RWD_TG\.idea\workspace.xml133414074853727178 0
 133C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\font-weight.js133413485929823547 0
 92C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-tree\lib\syntax\pseudo\index.js133413485938998999 0
 102C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133413485937373351 0
@@ -6053,4 +6053,7 @@
 71C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\index.34df27b5.css.map133410490900000000 0
 67C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\index.b10d73a7.css133414050758635152 0
 71C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\index.b10d73a7.css.map133414050758675042 0
-66C:\Users\Dominika\projects\Best_Shop_RWD_TG\.idea\watcherTasks.xml133413987490060897 0
+68C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\iPhone.e334b1b0.png133414075153411377 0
+69C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Macbook.8a05454e.png133414075153910047 0
+69C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Trumpet.019d5701.png133414075153890101 0
+57C:\Users\Dominika\projects\Best_Shop_RWD_TG\.idea\vcs.xml133414056913574367 0
