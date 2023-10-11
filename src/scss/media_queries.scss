@@ -9,24 +9,13 @@ $grid-breakpoints: (
         xxl: 1400px
 );
 
-@function hasKey($map, $key) {
-  @each $k, $v in $map {
-    @if $k == $key {
-      @return true;
-    }
-  }
-  @return false
-}
-
-
-@mixin mq($bp){
+@mixin mq($bp) {
   $width: map.get($grid-breakpoints, $bp);
 
-  @if not map.has-key($grid-breakpoints, $bp){
-    @warn 'Klucza: #{$bp} nie ma w mapiebreakpointów. Wybierz jeden z tych: xs, sm, md,lg, xl, xxl. Domyślnie ustawiam xs.';
+  @if not map.has-key($grid-breakpoints, $bp) {
+    @warn 'Klucza: #{$bp} nie ma w mapie breakpointów. Wybierz jeden z tych: xs, sm, md, lg, xl, xxl. Domyślnie ustawiam xs';
     $width: xs;
   }
-
 
   @media screen and (min-width: $width) {
     @content;

@@ -3,7 +3,6 @@
 @import "../helpers/mixins";
 
 .pricing__boxes {
-
   .frame {
     @include flex(center, center);
     border-radius: px-to-rem(18px);
@@ -13,26 +12,29 @@
     position: relative;
     padding: px-to-rem(11px);
 
-    &__box:hover {
-
-        transform: scale(1.15);
-        box-shadow: 0.3125 0.625 0.875 $base-color;
-        transition: all 200ms ease-in-out;
-
+    &:hover {
+      transform: scale(1.1);
+      transition: all 200ms ease-in-out;
     }
-
 
     &__basic {
       border: px-to-rem(1px) solid $red-color;
+      &:hover {
+        box-shadow: px-to-rem(5px) px-to-rem(10px) px-to-rem(27px) #FEEBEF;
+      }
     }
     &__professional {
       border: px-to-rem(1px) solid $base-color;
+      &:hover {
+        box-shadow: px-to-rem(5px) px-to-rem(10px) px-to-rem(27px) #07ACE629;
+      }
     }
     &__premium {
       border: px-to-rem(1px) solid $green-color;
+      &:hover {
+        box-shadow: px-to-rem(5px) px-to-rem(10px) px-to-rem(27px) #CCF5E8;
+      }
     }
-
-
     .dsc {
       @include flex(center, center);
       flex-direction: column;
@@ -95,11 +97,5 @@
         background-color: $green-color;
       }
     }
-
-
-    }
   }
-
-
-
-
+}

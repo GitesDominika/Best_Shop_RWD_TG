@@ -9,23 +9,21 @@
   }
   &__item {
     font-family: "Open Sans", sans-serif;
+    font-size: px-to-rem(11px);
     padding: px-to-rem(28px) px-to-rem(47.5px);
     display: inline-block;
     text-decoration: none;
     text-transform: uppercase;
     color: #A5A5A5;
-    font-size: px-to-rem(11px);
     transition: all 200ms ease-in-out;
-    font-weight: 700;
-    position: relative;
   }
   &__item:hover {
     border-bottom: px-to-rem(4px) solid $base-color;
-    color: black;
+    color: #000000;
   }
   &__item--active {
     border-bottom: px-to-rem(4px) solid $base-color;
-    color: black;
+    color: #000000;
   }
 
 }

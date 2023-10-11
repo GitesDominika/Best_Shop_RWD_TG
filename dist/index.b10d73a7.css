@@ -240,6 +240,7 @@ html, body {
 }
 
 .intro__btn {
+  background-color: #08a6e4;
   margin-top: 3.125rem;
   margin-bottom: 0;
   padding: 1.375rem 5.75rem 1.4375rem;
@@ -249,13 +250,12 @@ html, body {
 .intro__img {
   background-position: center;
   background-size: cover;
-  max-width: 100%;
+  width: 100%;
   margin-top: 3.1875rem;
 }
 
 .btn {
   color: #fff;
-  background-color: #08a6e4;
   border-radius: 2.5rem;
   font-family: Open Sans, sans-serif;
   font-weight: 700;
@@ -276,8 +276,7 @@ html, body {
   text-align: center;
   margin-top: 3.125rem;
   margin-bottom: 0;
-  margin-inline: auto;
-  padding-inline: 3.75rem;
+  padding-inline: 60px;
   font-family: Raleway, sans-serif;
   font-size: 1.875rem;
   font-weight: 400;
@@ -310,7 +309,7 @@ html, body {
   color: #000;
   justify-content: center;
   margin-top: 3.33375rem;
-  margin-bottom: 0;
+  margin-bottom: .875rem;
   font-family: Raleway, sans-serif;
   font-size: 2.25rem;
   font-weight: 400;
@@ -319,8 +318,8 @@ html, body {
 
 .logo {
   color: #08a6e4;
-  padding-top: 1.0625rem;
-  padding-bottom: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1.0625rem;
   font-family: Raleway, sans-serif;
   font-size: 2rem;
   font-weight: 300;
@@ -346,11 +345,9 @@ html, body {
   padding: 1.75rem 2.96875rem;
   font-family: Open Sans, sans-serif;
   font-size: .6875rem;
-  font-weight: 700;
   text-decoration: none;
   transition: all .2s ease-in-out;
   display: inline-block;
-  position: relative;
 }
 
 .navigation__item:hover, .navigation__item--active {
@@ -389,7 +386,7 @@ html, body {
 }
 
 .hamburger__icon:nth-child(2) {
-  top: 40%;
+  top: 45%;
 }
 
 .hamburger__icon:last-child {
@@ -451,23 +448,23 @@ html, body {
   left: -.4375rem;
 }
 
-.items .item .graph .graph__circle--1 {
-  background-color: #fb3b64;
-}
-
-.items .item .graph .graph__circle--2 {
-  background-color: #08a6e4;
-}
-
-.items .item .graph .graph__circle--3 {
-  background-color: #55dfb4;
-}
-
 .items .item .graph__circle {
   background-color: gray;
   border-radius: 50%;
   width: 3.91938rem;
   height: 3.91938rem;
+}
+
+.items .item .graph__circle--1 {
+  background-color: #fb3b64;
+}
+
+.items .item .graph__circle--2 {
+  background-color: #08a6e4;
+}
+
+.items .item .graph__circle--3 {
+  background-color: #55dfb4;
 }
 
 .items .item .graph__img {
@@ -479,6 +476,7 @@ html, body {
 .items .item__hdl {
   letter-spacing: .3725rem;
   color: #000;
+  max-width: 7.25rem;
   margin-top: .88625rem;
   margin-bottom: 0;
   font-family: Raleway, sans-serif;
@@ -540,8 +538,16 @@ html, body {
   position: relative;
 }
 
+.box .graph--desc {
+  background-color: #55dfb4;
+  border: .0625rem solid #e8e9ed;
+  border-radius: .3125rem;
+  width: 100%;
+  height: 12.1875rem;
+}
+
 .box .graph__img {
-  z-index: 42;
+  z-index: 10;
   padding-top: 2.31938rem;
 }
 
@@ -550,9 +556,8 @@ html, body {
 }
 
 .box .graph__img--second {
-  height: 8.375rem;
-  margin-inline: 5.625rem;
-  padding-top: 1.1875rem;
+  margin-top: -1.1875rem;
+  margin-left: 5.625rem;
 }
 
 .box .graph__img--third {
@@ -574,19 +579,11 @@ html, body {
 .box .graph__shape--blue {
   background-color: #08a6e4;
   border-radius: 50%;
-  width: 8.2425rem;
-  height: 8.23125rem;
+  width: 8.25rem;
+  height: 8.25rem;
   position: absolute;
   top: .75rem;
   left: 5.625rem;
-}
-
-.box .graph--desc {
-  background-color: #55dfb4;
-  border: .0625rem solid #e8e9ed;
-  border-radius: .3125rem;
-  width: 100%;
-  height: 12.1875rem;
 }
 
 .pricing__boxes .frame {
@@ -602,22 +599,33 @@ html, body {
   position: relative;
 }
 
-.pricing__boxes .frame__box:hover {
+.pricing__boxes .frame:hover {
   transition: all .2s ease-in-out;
-  transform: scale(1.15);
-  box-shadow: .3125px .625px .875px #08a6e4;
+  transform: scale(1.1);
 }
 
 .pricing__boxes .frame__basic {
   border: .0625rem solid #fb3b64;
 }
 
+.pricing__boxes .frame__basic:hover {
+  box-shadow: .3125rem .625rem 1.6875rem #feebef;
+}
+
 .pricing__boxes .frame__professional {
   border: .0625rem solid #08a6e4;
 }
 
+.pricing__boxes .frame__professional:hover {
+  box-shadow: .3125rem .625rem 1.6875rem #07ace629;
+}
+
 .pricing__boxes .frame__premium {
   border: .0625rem solid #55dfb4;
+}
+
+.pricing__boxes .frame__premium:hover {
+  box-shadow: .3125rem .625rem 1.6875rem #ccf5e8;
 }
 
 .pricing__boxes .frame .dsc {

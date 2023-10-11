@@ -1,6 +1,6 @@
 @import "../variables";
 
-@mixin flex($horizontal: flex-start, $vertical: flex-start, $wrap: nowrap){
+@mixin flex($horizontal: flex-start, $vertical: flex-start, $wrap: nowrap) {
   display: flex;
   justify-content: $horizontal;
   align-items: $vertical;
@@ -23,8 +23,6 @@
   }
 
   &:active {
-    @content;
+    @content
   }
-
 }
-
