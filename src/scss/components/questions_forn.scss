@@ -1,0 +1,142 @@
+@import "../variables";
+@import "../helpers/functions";
+@import "../helpers/mixins";
+
+.contact {
+  &__hdl {
+    font-size: px-to-rem(40px);
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: $font-color;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  &__dsc {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: $font-color;
+    margin-bottom: px-to-rem(15px);
+    margin-top: px-to-rem(5px);
+    height: px-to-rem(45px);
+  }
+  .info {
+
+    .inner {
+      @include flex(flex-start, center);
+      margin-bottom: px-to-rem(16px);
+      max-height: px-to-rem(27px);
+
+      &__img {
+        margin-right: px-to-rem(7.69px);
+      }
+
+      &__dsc {
+        margin-top: px-to-rem(16px);
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 400;
+        color: $grey2-color;
+        height: px-to-rem(22px);
+
+      }
+    }
+  }
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: px-to-rem(31px);
+
+
+  //formatowanie text name boxow
+  font-family: "Open Sans", sans-serif;
+  font-size: px-to-rem(12px);
+  color: $base-color;
+  font-weight: 700;
+  letter-spacing: 3.28px;
+
+  &:first-of-type {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  &:nth-of-type(2) {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  &__label {
+    padding-top: px-to-rem(40px);
+  }
+
+  &__in {
+    width: 100%;
+    padding: px-to-rem(15px) px-to-rem(20px);
+    box-sizing: border-box;
+    border: none;
+    border-bottom: px-to-rem(1px) solid $font-color;
+  }
+
+  .check {
+    @include flex(center, flex-start);
+    margin-top: px-to-rem(0px);
+    padding-top: px-to-rem(31px);
+
+    // edycja chceck box
+    &__form {
+      width: 24px;
+      height: 24px;
+      background-color:white;
+      border: 1px solid #95989A;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    &__form:hover {
+
+    }
+
+
+    &__dsc {
+      margin-top: 0;
+      margin-bottom: 0;
+      margin-left: px-to-rem(10px);
+      padding-right: px-to-rem(8px);
+      width: px-to-rem(277px);
+      font-family: "Open Sans", sans-serif;
+      color: $grey2-color;
+      font-weight: 400;
+      font-size: px-to-rem(12px);
+      letter-spacing: normal;
+    }
+  }
+
+
+
+  .btn {
+    background-color: #08a6e4;
+    margin-top: px-to-rem(21px);
+    margin-bottom: 0;
+    padding: 1.375rem 5.75rem 1.4375rem;
+    box-shadow: 0.3125rem 0.625rem 0.875rem #07ace629;
+    width:px-to-rem(226px);
+    height: px-to-rem(57px);
+    letter-spacing: normal;
+
+    text-align: center;
+
+    display: flex;
+    margin-left:px-to-rem(90px);
+
+
+    &__btn {
+      color: $btn-color;
+      border-radius: 2.5rem;
+      font-family: Open Sans, sans-serif;
+      font-weight: 700;
+      text-decoration: none;
+    }
+  }
+}

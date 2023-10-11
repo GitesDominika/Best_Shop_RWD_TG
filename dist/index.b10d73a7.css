@@ -316,6 +316,16 @@ html, body {
   display: flex;
 }
 
+.questions__inner {
+  flex-direction: nowrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  max-width: 19.75rem;
+  margin-inline: auto;
+  display: flex;
+}
+
 .logo {
   color: #08a6e4;
   padding-top: 1rem;
@@ -700,6 +710,127 @@ html, body {
 
 .pricing__boxes .frame__btn--green {
   background-color: #55dfb4;
+}
+
+.contact__hdl {
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Raleway, sans-serif;
+  font-size: 2.5rem;
+  font-weight: 400;
+}
+
+.contact__dsc {
+  color: #000;
+  height: 2.8125rem;
+  margin-top: .3125rem;
+  margin-bottom: .9375rem;
+  font-family: Open Sans, sans-serif;
+  font-weight: 400;
+}
+
+.contact .info .inner {
+  flex-direction: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  max-height: 1.6875rem;
+  margin-bottom: 1rem;
+  display: flex;
+}
+
+.contact .info .inner__img {
+  margin-right: .480625rem;
+}
+
+.contact .info .inner__dsc {
+  color: #707070;
+  height: 1.375rem;
+  margin-top: 1rem;
+  font-family: Open Sans, sans-serif;
+  font-weight: 400;
+}
+
+.form {
+  color: #08a6e4;
+  letter-spacing: 3.28px;
+  flex-direction: column;
+  margin-bottom: 1.9375rem;
+  font-family: Open Sans, sans-serif;
+  font-size: .75rem;
+  font-weight: 700;
+  display: flex;
+}
+
+.form:first-of-type, .form:nth-of-type(2) {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.form__label {
+  padding-top: 2.5rem;
+}
+
+.form__in {
+  box-sizing: border-box;
+  border: none;
+  border-bottom: .0625rem solid #000;
+  width: 100%;
+  padding: .9375rem 1.25rem;
+}
+
+.form .check {
+  flex-direction: nowrap;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 0;
+  padding-top: 1.9375rem;
+  display: flex;
+}
+
+.form .check__form {
+  cursor: pointer;
+  background-color: #fff;
+  border: 1px solid #95989a;
+  border-radius: 4px;
+  width: 24px;
+  height: 24px;
+}
+
+.form .check__dsc {
+  color: #707070;
+  letter-spacing: normal;
+  width: 17.3125rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: .625rem;
+  padding-right: .5rem;
+  font-family: Open Sans, sans-serif;
+  font-size: .75rem;
+  font-weight: 400;
+}
+
+.form .btn {
+  letter-spacing: normal;
+  text-align: center;
+  background-color: #08a6e4;
+  width: 14.125rem;
+  height: 3.5625rem;
+  margin-top: 1.3125rem;
+  margin-bottom: 0;
+  margin-left: 5.625rem;
+  padding: 1.375rem 5.75rem 1.4375rem;
+  display: flex;
+  box-shadow: .3125rem .625rem .875rem #07ace629;
+}
+
+.form .btn__btn {
+  color: #fff;
+  border-radius: 2.5rem;
+  font-family: Open Sans, sans-serif;
+  font-weight: 700;
+  text-decoration: none;
 }
 
 /*# sourceMappingURL=index.b10d73a7.css.map */
