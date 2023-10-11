@@ -1,4 +1,4 @@
-6067
+6069
 93C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\utility-types\dist\mapped-types.d.ts133414425265214160 0
 56C:\Users\Dominika\projects\Best_Shop_RWD_TG\package.json133414425299818534 0
 68C:\Users\Dominika\projects\Best_Shop_RWD_TG\src\images\Mail Icon.svg133413851200000000 0
@@ -16,7 +16,7 @@
 65C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\anymatch133414425254807053 1
 90C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\domelementtype\lib\esm\index.d.ts133414425260133725 0
 77C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@swc\types\README.md133414425257835550 0
-49C:\Users\Dominika\projects\Best_Shop_RWD_TG\.idea133414500348904565 1
+49C:\Users\Dominika\projects\Best_Shop_RWD_TG\.idea133414985825171080 1
 79C:\Users\Dominika\projects\Best_Shop_RWD_TG\src\scss\components\navigation.scss133413851200000000 0
 87C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\csso\lib\clean\TypeSelector.js133414425275499722 0
 88C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\regions\HK.js133414425284720863 0
@@ -27,7 +27,7 @@
 65C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\mdn-data133414425268738611 1
 93C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h133414425276546923 0
 96C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\features\autofocus.js133414425271391520 0
-48C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist133414500001793123 1
+48C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist133414985827482806 1
 69C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\lmdb\keys.js133414425277195188 0
 105C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\features\css-widows-orphans.js133414425281661440 0
 94C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\source-map\lib\source-map-consumer.js133414425261026483 0
@@ -46,7 +46,7 @@
 101C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\lmdb\node_modules\node-addon-api\common.gypi133414425252403475 0
 110C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\transformer-js\parcel-swc.win32-x64-msvc.node133414425290284349 0
 88C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\regions\KE.js133414425285864804 0
-54C:\Users\Dominika\projects\Best_Shop_RWD_TG\index.html133414495563313348 0
+54C:\Users\Dominika\projects\Best_Shop_RWD_TG\index.html133414985824542717 0
 140C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\DeclarationList.js133414425271082351 0
 104C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\csso\node_modules\css-tree\lib\lexer\generic.js133414425279399294 0
 64C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\is-json133414425257362145 1
@@ -55,7 +55,7 @@
 88C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\domutils\lib\stringify.d.ts.map133414425264147019 0
 77C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\posthtml-render\dist133414425257362145 1
 91C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\mdn-data\css\selectors.schema.json133414425266420935 0
-52C:\Users\Dominika\projects\Best_Shop_RWD_TG\src\scss133414484020727679 1
+52C:\Users\Dominika\projects\Best_Shop_RWD_TG\src\scss133414925771351634 1
 79C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\normalize-css\index.js133414425252443372 0
 112C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln133414425278252356 0
 101C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\features\pointer-events.js133414425288548961 0
@@ -102,7 +102,7 @@
 81C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\normalize-path\README.md133414425253869557 0
 92C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-svgo\package.json133414425254547745 0
 97C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\reporter-cli\src\bundleReport.js133414425251815071 0
-63C:\Users\Dominika\projects\Best_Shop_RWD_TG\src\scss\components133414500348384863 1
+63C:\Users\Dominika\projects\Best_Shop_RWD_TG\src\scss\components133414984266942921 1
 97C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\abortcontroller-polyfill\src\polyfill.js133414425260233513 0
 87C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\update-browserslist-db\LICENSE133414425249989935 0
 119C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeDesc.js133414425271521172 0
@@ -196,7 +196,7 @@
 73C:\Users\Dominika\projects\Best_Shop_RWD_TG\src\scss\components\logo.scss133413851200000000 0
 102C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\core\test\fixtures\library-scopehoist133414425280305328 1
 71C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\ordered-binary133414425262667241 1
-81C:\Users\Dominika\projects\Best_Shop_RWD_TG\src\scss\components\priceing_box.scss133414500348374801 0
+81C:\Users\Dominika\projects\Best_Shop_RWD_TG\src\scss\components\priceing_box.scss133414984266942921 0
 83C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\lmdb\util\RangeIterable.js133414425277364752 0
 96C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-tree\lib\syntax\atrule\font-face.js133414425279359527 0
 80C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\braces\lib\constants.js133414425258176276 0
@@ -485,7 +485,7 @@
 80C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\ordered-binary\index.js133414425254627542 0
 65C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\escalade133414425258684916 1
 75C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\tslib\package.json133414425258256058 0
-77C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Best_Shop_RWD_TG.3464ddca.js133414499163026552 0
+77C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Best_Shop_RWD_TG.3464ddca.js133414978369850219 0
 88C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\regions\NL.js133414425287631454 0
 68C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\xxhash-wasm133414425260512713 1
 81C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-what\lib\es\types.js133414425260442907 0
@@ -634,7 +634,7 @@
 76C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\picomatch\README.md133414425260672289 0
 81C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\source-map\lib\base64.js133414425258236131 0
 78C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\msgpackr\dist\test.js133414425266819869 0
-59C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\index.html133414499162876958 0
+59C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\index.html133414985827472813 0
 79C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\is-arrayish\.npmignore133414425251336343 0
 128C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-select\node_modules\entities\lib\esm\generated\encode-html.d.ts.map133414425270364263 0
 91C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\features\heif.js133414425284631115 0
@@ -2288,7 +2288,7 @@
 76C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\lmdb\dist\index.cjs133414425274891345 0
 89C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-tree\cjs\tokenizer\index.cjs133414425274322860 0
 110C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@swc\helpers\_\_class_private_method_set\package.json133414425280923679 0
-68C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Person.563280fd.svg133414499162866989 0
+68C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Person.563280fd.svg133414978369639940 0
 76C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\lmdb\dict\dict2.txt133414425278352102 0
 106C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\hash\parcel-hash.linux-arm-gnueabihf.node133414425266680292 0
 83C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\workers\lib\bus.js133414425254438046 0
@@ -2378,7 +2378,7 @@
 95C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\features\testfeat.js133414425290623417 0
 108C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.1133414425267212680 0
 94C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-tree\cjs\syntax\node\Function.cjs133414425271491255 0
-69C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\iPhone2.fae45835.png133414499163026552 0
+69C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\iPhone2.fae45835.png133414978369819464 0
 130C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.d.ts.map133414425266211516 0
 82C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\is-arrayish\.editorconfig133414425257696051 0
 107C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@swc\helpers\_\_await_async_generator\package.json133414425280135734 0
@@ -3421,7 +3421,7 @@
 91C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-tree\lib\syntax\scope\value.js133414425282120212 0
 96C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-tree\cjs\syntax\node\Identifier.cjs133414425272866762 0
 88C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\regions\LR.js133414425286494457 0
-63C:\Users\Dominika\projects\Best_Shop_RWD_TG\.idea\workspace.xml133414500348874652 0
+63C:\Users\Dominika\projects\Best_Shop_RWD_TG\.idea\workspace.xml133414985825151091 0
 133C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\font-weight.js133414425268798460 0
 92C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-tree\lib\syntax\pseudo\index.js133414425280185768 0
 102C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133414425278222441 0
@@ -3488,7 +3488,7 @@
 86C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-select\lib\esm\types.d.ts133414425275459824 0
 96C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-tree\lib\definition-syntax\index.js133414425279987749 0
 73C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@swc\helpers\src133414425285119847 1
-65C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Eye.3989fe90.svg133414499162866989 0
+65C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Eye.3989fe90.svg133414978369310824 0
 96C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-tree\lib\definition-syntax\parse.js133414425280863851 0
 104C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133414425279688540 0
 102C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\css-tree\lib\definition-syntax\SyntaxError.js133414425281741389 0
@@ -4254,7 +4254,7 @@
 127C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json133414425280205600 0
 137C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\TypeSelector.js133414425277334810 0
 110C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\features\css-repeating-gradients.js133414425280614505 0
-81C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Best_Shop_RWD_TG.3464ddca.js.map133414499163076600 0
+81C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Best_Shop_RWD_TG.3464ddca.js.map133414978369879292 0
 103C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\features\css-revert-value.js133414425280654406 0
 97C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\caniuse-lite\data\features\use-strict.js133414425291231791 0
 94C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\core\lib\public\Dependency.js133414425273425262 0
@@ -5311,7 +5311,7 @@
 125C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertTransform.js133414425266610428 0
 119C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\mergePaths.js133414425268758558 0
 121C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\minifyStyles.js133414425269556550 0
-70C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Macbook2.6f8603fd.png133414499162777228 0
+70C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Macbook2.6f8603fd.png133414978369191168 0
 116C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\plugins.js133414425270693384 0
 118C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Raw.js133414425271052426 0
 123C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\preset-default.js133414425270982622 0
@@ -6056,13 +6056,15 @@
 84C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\.bin\update-browserslist-db133414425292689942 0
 88C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\.bin\update-browserslist-db.cmd133414425292689942 0
 88C:\Users\Dominika\projects\Best_Shop_RWD_TG\node_modules\.bin\update-browserslist-db.ps1133414425292689942 0
-72C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Background.fa568766.png133414499162936803 0
+72C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Background.fa568766.png133414978369410607 0
 77C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\BestShop_RWD.3464ddca.js.map133413851200000000 0
-69C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Catalog.38200805.svg133414499162866989 0
+69C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Catalog.38200805.svg133414978369649925 0
+73C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Checkmark-1.0cbec098.svg133414978369639940 0
+67C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\close.b195aaf1.svg133414978369320948 0
 71C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\index.34df27b5.css.map133413851200000000 0
-67C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\index.b10d73a7.css133414500001723299 0
-71C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\index.b10d73a7.css.map133414500001783441 0
+67C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\index.b10d73a7.css133414984271905492 0
+71C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\index.b10d73a7.css.map133414984271935416 0
 68C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\iPhone.e334b1b0.png133413851200000000 0
 69C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Macbook.8a05454e.png133413851200000000 0
-69C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Trumpet.019d5701.png133414499162876958 0
+69C:\Users\Dominika\projects\Best_Shop_RWD_TG\dist\Trumpet.019d5701.png133414978369320948 0
 57C:\Users\Dominika\projects\Best_Shop_RWD_TG\.idea\vcs.xml133414423091115529 0
