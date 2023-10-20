@@ -1,0 +1,106 @@
+@import "../variables";
+@import "../helpers/functions";
+@import "../helpers/mixins";
+
+.pricing__boxes {
+  .frame {
+    @include flex(center, center);
+    border-radius: px-to-rem(18px);
+    margin-bottom: px-to-rem(67px);
+    height: px-to-rem(251px);
+    width: 100%;
+    position: relative;
+    padding: px-to-rem(11px);
+
+    &:first-child:hover{
+      transform: scale(1.1);
+      transition: all 200ms ease-in-out;
+      box-shadow: 5px 10px 27px $red-color-shadow;
+    }
+    &:nth-child(2):hover {
+      transform: scale(1.1);
+      transition:all 200ms ease-in-out;
+      box-shadow: 5px 10px 27px #07ACE629;
+    }
+    &:last-child:hover {
+      transform: scale(1.1);
+      transition:all 200ms ease-in-out;
+      box-shadow: 5px 10px 27px $green-shadow;
+    }
+    &__basic {
+      border: px-to-rem(1px) solid $red-color;
+    }
+    &__professional {
+      border: px-to-rem(1px) solid $base-color;
+    }
+    &__premium {
+      border: px-to-rem(1px) solid $green;
+    }
+    .dsc {
+      @include flex(center, center);
+      flex-direction: column;
+      &__offer {
+        font-family: 'Raleway', sans-serif;
+        font-size: px-to-rem(20px);
+        font-weight: 700;
+        color: $base-font-size;
+      }
+      &__price {
+        font-size: px-to-rem(46px);
+        font-family: "Open Sans", sans-serif;
+        font-weight: 300;
+
+        &--red {
+          color: $red-color;
+        }
+        &--blue {
+          color: $base-color;
+        }
+        &--green {
+          color: $green;
+        }
+
+      }
+      &__limited {
+        font-family: 'Raleway', sans-serif;
+        font-size: px-to-rem(12px);
+        font-weight: 700;
+        color: $font-color;
+      }
+    }
+
+    .items {
+
+      &__item {
+        font-family: "Open Sans", sans-serif;
+        font-size: px-to-rem(14px);
+        font-weight: 400;
+        color: $font-color;
+        list-style: none;
+        margin-bottom: px-to-rem(20px);
+        img {
+          margin-right: px-to-rem(10px);
+        }
+      }
+    }
+    &__btn {
+      position: absolute;
+      left: calc(50% - 75px);
+      top: px-to-rem(225px);
+      width: px-to-rem(150px);
+      height: px-to-rem(50px);
+      padding: px-to-rem(15px) px-to-rem(57px);
+      font-size: px-to-rem(16px);
+
+      &--red {
+        background-color: $red-color;
+      }
+      &--blue {
+        background-color: $base-color;
+      }
+      &--green {
+        background-color: $green;
+      }
+    }
+  }
+}

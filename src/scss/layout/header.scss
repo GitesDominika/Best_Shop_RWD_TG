@@ -3,14 +3,10 @@
 @import "../variables";
 @import "../media_queries";
 
-
 .header {
   box-shadow: 0 px-to-rem(3px) px-to-rem(6px) #00000029;
   width: 100%;
   @include flex(center, center);
-  position: relative;
-  z-index: 42;
-
 
   &__inner {
     padding-inline: px-to-rem(25px);
@@ -20,8 +16,9 @@
     width: px-to-rem(1352px);
   }
 }
+
 .intro {
-  @include flex(center, center, wrap);
+    @include flex(center, center, wrap);
   flex-direction: column;
   text-align: center;
   &__hdl {
@@ -29,30 +26,30 @@
     font-size: px-to-rem(49px);
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
-    margin-top: px-to-rem(100px);
+    margin-top: px-to-rem(130px);
     margin-bottom: 0;
   }
-  &__dsc{
+  &__dsc {
+    color: $font-color;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
-    color: $font-color;
     margin-top: px-to-rem(20px);
     margin-bottom: 0;
-    padding-inline: px-to-rem(50px);
   }
   &__btn {
-    background-color: $base-color;
     padding: px-to-rem(22px) px-to-rem(92px) px-to-rem(23px) px-to-rem(92px);
     margin-top: px-to-rem(50px);
     margin-bottom: 0;
     box-shadow: px-to-rem(5px) px-to-rem(10px) px-to-rem(14px) #07ACE629;
+    background-color: $base-color;
   }
   &__img {
     margin-top: px-to-rem(51px);
     background-position: center;
     background-size: cover;
-    width: 100%;
+    max-width: 100%;
   }
+
 }
 
 .btn {

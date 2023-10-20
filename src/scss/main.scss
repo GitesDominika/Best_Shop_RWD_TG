@@ -7,19 +7,18 @@
 
 // layout
 @import "./layout/header";
-@import "./layout/statistic_section";
-@import "./layout/benefits_section";
-@import "./layout/pricing_section";
+@import "./layout/statistic-section";
+@import "./layout/benefit-section";
+@import "./layout/pricing-section";
 @import "./layout/questions_section";
-@import "layout/footer";
-
+@import "./layout/footer";
 
 // components
 @import "./components/logo";
 @import "./components/navigation";
 @import "./components/hamburger";
 @import "./components/statistic_bar";
-@import "./components/benefits_box";
-@import "./components/pricing_box";
-@import "./components/questions_forn";
-@import "./components/menu_bar";
+@import "./components/benefit_box";
+@import "./components/pricing-box";
+@import "./components/questions_form";
+@import "./components/calculator";
